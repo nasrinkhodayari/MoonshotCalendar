@@ -5,10 +5,10 @@ window, plotted on a map
 
 ## Technologies
 
-Rectjs
-Typscript
-Styled Component
-MapBox
-Axios
-React hook form
-React calendar
+Rectjs,
+Typscript,
+Styled Component,
+MapBox,
+Axios,
+React hook form,
+React calendar,
